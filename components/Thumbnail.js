@@ -2,7 +2,7 @@ import Image from "next/image";
 import { ThumbUpIcon } from "@heroicons/react/outline";
 import { forwardRef } from "react";
 
-const Thumbnail = React.forwardRef(({ result }, ref) => {
+const Thumbnail = forwardRef(({ result }, ref) => {
   const BASE_URL = "http://image.tmdb.org/t/p/original/";
   return (
     <div
