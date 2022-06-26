@@ -4,5 +4,8 @@
     "next": {
       "rootDir": "packages/my-app/"
     }
+  },
+  "rules": {
+    "react/display-name": "off"
   }
 }
