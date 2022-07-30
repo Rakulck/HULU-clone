@@ -36,8 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Usage
 
-   Get info about trending movies 
-   Has mob=vie list of different genre
+   Get info about trending  movies
+   Has movie list of different genre
 
 ##Frameworks used
 
