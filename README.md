@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    Get info about trending  movies
    Has movie list of different genre
 
-##Frameworks used
+## Frameworks used
 
 -tailwind css
 -react flip move
