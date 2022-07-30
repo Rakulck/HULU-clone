@@ -49,6 +49,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Tmdb is a website which provides and updates movies that are trending in realtime.Their api can be used from the following link.
    -https://www.themoviedb.org/documentation/api
 
-
+## Check it out!
 Feel free to check this link here https://hulu-clone-yt-beryl.vercel.app/?genre=fetchTrending..
 This does not require any aunthentication or collect data of any sort.
