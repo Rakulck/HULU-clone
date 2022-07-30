@@ -33,7 +33,26 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-This project has been hosted using vercel.
+
+##Usage
+
+-Get info about trending movies 
+-Has mob=vie list of different genre
+
+##Frameworks used
+
+-tailwind css
+-react flip move
+
+##Api 
+
+-Tmdb is a website which provides and updates movies that are trending in realtime.Their api can be used from the following link.
+-https://www.themoviedb.org/documentation/api
+
+##Deployment
+
+-This project has been hosted using vercel.
+
+
 Feel free to check this link here https://hulu-clone-yt-beryl.vercel.app/?genre=fetchTrending..
 This does not require any aunthentication or collect data of any sort.
-
