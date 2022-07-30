@@ -35,5 +35,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 This project has been hosted using vercel.
 Feel free to check this link here https://hulu-clone-yt-beryl.vercel.app/?genre=fetchTrending..
-This does not require any aunthentication or collect data of any sort..
+This does not require any aunthentication or collect data of any sort.
 
