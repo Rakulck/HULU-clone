@@ -36,18 +36,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Usage
 
-   Get info about trending  movies
-   Has movie list of different genre
+   Get info about trending  movies.
+   Has movie list of different genre.
 
 ## Frameworks used
 
 -tailwind css
 -react flip move
 
-## Api 
+## Functionalities
 
-Tmdb is a website which provides and updates movies that are trending in realtime.Their api can be used from the following link.
-   -https://www.themoviedb.org/documentation/api
+-Click on diferent genres to know about which movie is trending now in each genre.
+Hover over the movies to get information on the realease date of the movie and number likes.
+
+## Screenshots
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/77563090/181879254-b12471e4-38d2-4708-bd8c-b9ffaa285a87.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/77563090/181879392-f5c1c904-ff79-4ace-bc84-ff3b07fdfe00.png">
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/77563090/181879430-0ffbdea5-3fe8-430d-8a59-1944cd2fe86c.png">
+
 
 ## Check it out!
 Feel free to check this link here https://hulu-clone-yt-beryl.vercel.app/?genre=fetchTrending..
